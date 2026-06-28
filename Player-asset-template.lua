@@ -3,7 +3,7 @@ local MarketplaceService = game:GetService("MarketplaceService")
 
 -- The item we're checking for: https://www.roblox.com/catalog/30331986/Midnight-Shades
 local ASSET_ID = 30331986
-local ASSET_NAME = "Midnight Shades"
+local ASSET_NAME = "PLACE HOLDER"
 
 local function onPlayerAdded(player)
 	local success, ownsAsset = pcall(function()
